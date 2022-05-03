@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -Wall -Wextra -Weffc++ -Wshadow -Werror -Wno-missing-field-initializers -Wlogical-op -Wduplicated-cond -Wnull-dereference  -rdynamic CMakeFiles/final.dir/main.cpp.o CMakeFiles/final.dir/src/server.cpp.o CMakeFiles/final.dir/src/poker.cpp.o  -o final  -lpthread /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0 
